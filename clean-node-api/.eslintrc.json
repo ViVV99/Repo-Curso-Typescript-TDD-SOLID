@@ -9,7 +9,8 @@
         "@typescript-eslint/semi": ["error", "always"],
         "@typescript-eslint/space-before-blocks": ["off"],
         "@typescript-eslint/consistent-generic-constructors":["off"],
-        "@typescript-eslint/comma-dangle": "off"
+        "@typescript-eslint/comma-dangle": "off",
+        "@typescript-eslint/strict-boolean-expressions": "off"
         //"prettier/prettier": ["error", { "singleQuote": true }]
         //@typescript-eslint/quotes": [2, "single", { "avoidEscape": true }]
     }
